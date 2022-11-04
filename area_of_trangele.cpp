@@ -1,4 +1,4 @@
-/* WAP to calculate area of trangle if base and height are given */
+/* WAP to calculate area of triangle if base and height are given */
 
 
 #include<stdio.h>
@@ -12,6 +12,6 @@ int main()
 	scanf("%f", &height);
 	area = 0.5 * base * height;
 /*	area = (base*height)/2;*/
-	printf("The Area of trangle are %f:",area );
+	printf("The Area of triangle are %f:",area );
 
 }
